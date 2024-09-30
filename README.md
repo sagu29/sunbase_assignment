@@ -20,9 +20,9 @@ This is a Customer Management CRUD application built using Spring Boot for the b
 
 ## UI Screenshots
 
-<img src="https://i.imgur.com/nzlTf4L.png">
-<img src="https://imgur.com/huEthCr.png">
-<img src="https://imgur.com/b8Z6i6r.png">
+<img src="./frontend/photos/login.jpg">
+<img src="./frontend/photos/customer table.jpg">
+<img src="./frontend/photos/create customer.jpg">
 
 
 ## Technologies Used
